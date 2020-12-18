@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/poke-dream-team/static/css/main.56cda763.chunk.css",
+    "main.js": "/poke-dream-team/static/js/main.abd35064.chunk.js",
+    "main.js.map": "/poke-dream-team/static/js/main.abd35064.chunk.js.map",
+    "runtime-main.js": "/poke-dream-team/static/js/runtime-main.ab3f64eb.js",
+    "runtime-main.js.map": "/poke-dream-team/static/js/runtime-main.ab3f64eb.js.map",
+    "static/js/2.705c727f.chunk.js": "/poke-dream-team/static/js/2.705c727f.chunk.js",
+    "static/js/2.705c727f.chunk.js.map": "/poke-dream-team/static/js/2.705c727f.chunk.js.map",
+    "index.html": "/poke-dream-team/index.html",
+    "static/css/main.56cda763.chunk.css.map": "/poke-dream-team/static/css/main.56cda763.chunk.css.map",
+    "static/js/2.705c727f.chunk.js.LICENSE.txt": "/poke-dream-team/static/js/2.705c727f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab3f64eb.js",
+    "static/js/2.705c727f.chunk.js",
+    "static/css/main.56cda763.chunk.css",
+    "static/js/main.abd35064.chunk.js"
+  ]
+}
